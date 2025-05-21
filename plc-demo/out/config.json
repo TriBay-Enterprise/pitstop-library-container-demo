@@ -1,0 +1,19 @@
+{
+    "plc": {
+        "hostname": "localhost",
+        "port": 3002
+    },
+    "docker": {
+        "inputPath": "C:/Users/Newye/Desktop/TriBay/Docker/Input",
+        "outputPath": "C:/Users/Newye/Desktop/TriBay/Docker/Output",
+        "reportsPath": "C:/Users/Newye/Desktop/TriBay/Docker/Reports",
+        "mounted": {
+            "inputPath": "/root/Input",
+            "outputPath": "/root/Output",
+            "reportsPath": "/root/Reports",
+            "preflightProfilesPath": "/root/PitStop",
+            "actionListsPath": "/root/PitStop",
+            "reportTemplatePath": "/root/PitStop/PitStopReportAnnotated.prefs"
+        }
+    }
+}
