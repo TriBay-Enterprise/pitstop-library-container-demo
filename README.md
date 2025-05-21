@@ -1,4 +1,6 @@
 # PitStop Library Container Demo
+![image](https://github.com/user-attachments/assets/ab81a267-0b9a-46b3-96cf-4ff8fac75b08)
+
 A simple front-end for Enfocus PitStop Library Container (PLC). Made with Electron-Vite and TypeScript using SCSS as a CSS preprocessor for styling.
 
 Upload a PDF, preflight and/or use action lists, and see the output!
